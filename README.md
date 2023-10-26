@@ -1,3 +1,8 @@
+# Tabla de Contenido
+
+- [LaTeX](#./LaTeX/README.md)
+- [Planteamiento del proyecto](#Planteamiento-del-proyecto)
+  
 # Proyecto integrador de primer semestre
 
 Este repositorio contiene toda la información necesaria para el desarrollo del proyecto integrador de primer semestre de la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones (ITICs) del Instituto Tecnologico Superior del Occidente del Estado de Hidalgo (ITSOEH).
