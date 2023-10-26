@@ -1,7 +1,6 @@
 # Tabla de Contenido
 
 - [LaTeX](LaTeX/README.md)
-- [Planteamiento del proyecto](#Planteamiento-del-proyecto)
   
 # Proyecto integrador de primer semestre
 
